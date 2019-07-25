@@ -1,0 +1,4 @@
+Hello, this is test file.
+Now I use local master branch related to the origin dev branch.
+If I git pull, whether remote dev reload to my local master branch?
+If I push something to the remote dev branch, the remote master branch whether will change?
