@@ -1,3 +1,5 @@
 I am on the dev branch. I was writing some words on the dev branch.
 
 I use the vim edit to write some words.
+The dev branch is push to the remote.
+Now, the github have two branches. One is master, and the other is dev branch.
