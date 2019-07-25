@@ -1,1 +1,2 @@
-hello，这个版本是从github上clone的。
+hello, world!
+readme.txt
