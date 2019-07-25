@@ -7,3 +7,5 @@ the first modified, we will execute the add line.
 on the branch dev, do some modefied.
 
 I was modified on the branch master.
+
+I was modified on the branch dev.
