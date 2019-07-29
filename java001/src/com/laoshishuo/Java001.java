@@ -8,7 +8,7 @@ public class Java001 {
 		System.out.println(str1.hashCode() + " " + str2.hashCode());
 		System.out.println(toLowerCase(str1));
 	}
-	//将大写字母全部转化为小写
+	//灏嗗ぇ鍐欏瓧姣嶈浆鎹负灏忓啓瀛楁瘝
 	public static String toLowerCase(String str) {
 		char[] chars = str.toCharArray();
 		for(int i = 0; i < chars.length; i++) {
